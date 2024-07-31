@@ -32,6 +32,7 @@ Equip items by adding to the Inventory Items to Grant in the Editor Preferences 
 - Equipping weapons
 - Building and editing
 - Using any cosmetic
+- FallGuys Gamemode on 30.30, kinda
 
 ## Credits
 - boredcrow24 - def didn't take this entire repo from him
