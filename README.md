@@ -26,6 +26,7 @@ Equip items by adding to the Inventory Items to Grant in the Editor Preferences 
 
 ## Features
 - Battle Royale and Save the World ingame (both only on 24.20)
+- Battle Royale Map Support on 24.20, 27.11, 30.30
 - Equipping weapons
 - Building and editing
 - Using any cosmetic
