@@ -3,7 +3,7 @@
 
 Allows you to go ingame using UEFN on Save the World and Battle Royale gamemodes.
 
-tldr it's carbon but in editor instead (and the BR map doesn't work bc it's UEFN!)
+tldr it's carbon but in editor instead
 
 1. Download [Legendary](https://github.com/derrod/legendary) and log into your Epic Games account.
 2. Download [your required version from manifest](https://github.com/polynite/fn-releases/tree/master/manifests) using Legendary.
