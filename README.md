@@ -22,9 +22,8 @@ Equip items by adding to the Inventory Items to Grant in the Editor Preferences 
 
 ## Notes
 - 24.20 is the best version for PIE.
-- Battle Royale Gamemode doesn't work on 27.11
-- Save the World Gamemode doesn't work on 30.20, 30.30
-- Crouching/Sliding doesn't work on 30.20, 30.30
+- Save the World Gamemode doesn't work on 30.XX builds
+- Crouching/Sliding doesn't work on 30.XX builds
 
 ## Features
 - Battle Royale and Save the World ingame (both only on 24.20)
