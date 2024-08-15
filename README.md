@@ -8,7 +8,7 @@ tldr it's carbon but in editor instead (and the BR map works if you have a lot o
 1. Download and Setup [27.11 PIE](https://github.com/wildfurball4/UEFN-PIE/tree/main/27.11)
 2. Download UEFN-PIE's code as a ZIP and extract it to the same location as 27.11 (merging FortniteGame folders).
 3. Make a shortcut to the patched exe you just created with the arguments "-enableplugins="DurianRoot" -disableplugins="ValkyrieFortnite""
-4. Move [these pak files](https://media.discordapp.net/attachments/1196552383031947455/1273141546430238791/image.png?ex=66bd88f6&is=66bc3776&hm=4ae69591167b9091522e56cf938faa9e637880a83fc99584cd76a197a7e4e2dd&=&format=webp&quality=lossless&width=761&height=670) into another folder, just not in the main paks folder.
+4. Move [these pak files](https://github.com/wildfurball4/UEFN-PIE/blob/durian/image.png) into another folder, just not in the main paks folder.
 5. Make sure you have Neonite open and open your shortcut. When UEFN is loaded, click the three dots next to Platform and scroll down to NetMode, make sure it is set to Play as Client and click play.
 6. Once PIE loaded into the frontend, close pie.
 7. After closing PIE, head to the Durian plugin folder (Plugins/Events/Durian)
