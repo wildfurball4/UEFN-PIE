@@ -34,7 +34,7 @@ Equip items by adding to the Inventory Items to Grant in the Editor Preferences 
 - Lego and FallGuys Gamemode on 30.30, kinda
 
 ## Credits
-- boredcrow24 - def didn't take this entire repo from him
+- boredcrow24 - made most of the patches in this repo
 - simonhxd - worked on majority of blueprint functionality for ingame
 - wiktorwiktor12a - better animations patch for UEFN
 - sizzyleaks and taijames - inventory
