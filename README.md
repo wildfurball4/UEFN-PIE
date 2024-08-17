@@ -24,7 +24,6 @@ Equip items by adding to the Inventory Items to Grant in the Editor Preferences 
 - 24.20 is the best version for PIE.
 - Save the World Gamemode doesn't work on 30.XX builds
 - Crouching/Sliding doesn't work on Chapter 5 builds
-- for 31.00 br map "pcg.PIE.RebuildLandscapeOnPIE 0" in console. "open helios_terrain?game=/ValkyriePIE/BattleRoyale/BattleRoyale_Gamemode.BattleRoyale_Gamemode_C" drag HeliosLoader in ValkyriePIE into the level
 
 ## Features
 - Battle Royale and Save the World ingame (both only on 24.20)
