@@ -16,7 +16,7 @@ tldr it's carbon but in editor instead
 9. Open your patched exe from xdelta, click on Edit in the top left, then Editor Preferences..., scroll down to Play Credentials and Enable Logins and add Credentials, User Id will be your username on Neonite, Password doesn't matter but needs to be filled in, Type should be set to epic or exchangecode.
 10. In UEFN Click the three dots next to Platform and scroll down to NetMode, make sure it is set to Play Standalone and click play, if it loads into lobby, try again.
 
-Once everything is set up you just need to have fiddler and Nenonite open to play PIE! Select a map and set the GameMode override in the world settings to BattleRoyale_Gamemode to load BR, the default gamemode is STW.
+Once everything is set up you just need to have fiddler and Neonite open to play PIE! Select a map and set the GameMode override in the world settings to BattleRoyale_Gamemode to load BR, the default gamemode is STW.
 
 Equip items by adding to the Inventory Items to Grant in the Editor Preferences in Save The World Cheats or Battle Royale Settings depending on gamemode.
 
