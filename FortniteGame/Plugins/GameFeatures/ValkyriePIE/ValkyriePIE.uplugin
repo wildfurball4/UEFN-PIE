@@ -1,0 +1,42 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": false,
+	"EnabledByDefault": true,
+	"BuiltInInitialFeatureState": "Active",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": true,
+	"FortReleaseVersion": "22.30",
+	"Plugins": [
+		{
+			"Name": "SaveTheWorld",
+			"Enabled": true
+		},
+		{
+			"Name": "BRCosmetics",
+			"Enabled": true
+		},
+		{
+			"Name": "TacticalSprintGame",
+			"Enabled": true
+		},
+		{
+			"Name": "Energy",
+			"Enabled": true
+		}
+	],
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "ValkyriePIE",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": true
+}
