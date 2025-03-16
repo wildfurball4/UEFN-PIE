@@ -3,6 +3,8 @@
  
  Select Your Fortnite Version From The Branch Selector 
 
+ NOTE: All Manifest's (Except For Latest) Have Been Nuked And No Longer Possible To Download
+
  Many Fortnite Versions Can Be Downloaded From Here:
  https://github.com/llamaqwerty/fortnite-builds-archive
 
