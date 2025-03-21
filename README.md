@@ -5,8 +5,7 @@
 
  NOTE: All Manifest's (Except For Latest) Have Been Nuked And No Longer Possible To Download
 
- Many Fortnite Versions Can Be Downloaded From Here:
- https://github.com/llamaqwerty/fortnite-builds-archive
+ Many Fortnite Versions Can Be Downloaded From Here: https://fn-builds.net/
 
 ![image](https://github.com/user-attachments/assets/9d6019b6-b9e4-4e62-9653-a933c30cc9de)
 
