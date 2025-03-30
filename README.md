@@ -5,7 +5,7 @@ Allows you to go ingame using UEFN on Save the World and Battle Royale gamemodes
 
 tldr it's carbon but in editor instead
 
-1. Download [32.11 + UEFN](https://drive.google.com/file/d/1d8kzDnbgU70Xg8Xs0Djcqy5NFUB6E7ax/view?usp=sharing).
+1. Download [32.11 + UEFN](https://drive.google.com/file/d/1X-K3cyFsqswUorH-2REQEKuLwh5oaEh8/view?usp=sharing).
 2. Download UEFN-PIE's code as a ZIP and extract it to the same location your Fortnite folder (merging FortniteGame folders).
 3. Download [xdelta](https://www.romhacking.net/download/utilities/598/) and set "PIE_XXXX_v1.xdelta" as the patch and UnrealEditorFortnite-Win64-Shipping.exe in "FortniteGame/Binaries/Win64" as the Source File, make sure the target file is an exe inside the Win64 folder.
 4. Download [Fiddler Classic](https://www.telerik.com/download/fiddler), once Fiddler is set up copy the contents of FiddlerScript.txt and paste it into the FiddlerScript tab inside Fiddler, go into Tools -> Options -> HTTPS and make sure Capture HTTPS CONNECTs, Decrypt HTTPS traffic, Ignore server certificate errors (unsafe) are all checked, then click Actions and Trust Root Certificate clicking yes when prompted.
